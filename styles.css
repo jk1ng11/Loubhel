@@ -1,0 +1,58 @@
+body {
+  background: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 110vh;
+  min-width: fit-content;
+  position: inherit;
+}
+.form1 {
+  background-image: url("Iloveyou.jpg");
+  height: 800px;
+  width: 900px;
+  background-position: center;
+  background-size: 100% 100%;
+  border-radius: 10pt;
+  border: 5px solid black;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+}
+.vision {
+  font-size: 30pt;
+  color: black;
+  border-style: solid;
+  border-radius: 10pt;
+  background-color: red;
+  text-align: center;
+}
+.mission {
+  font-size: 30pt;
+  border-style: solid;
+  border-radius: 10pt;
+  align-items: center;
+  background-color: yellow;
+  text-align: center;
+}
+.goal {
+  font-size: 30pt;
+  border-style: solid;
+  border-radius: 10pt;
+  align-items: center;
+  background-color: seagreen;
+  text-align: center;
+}
+.objectives {
+  border-style: solid;
+  border-radius: 10pt;
+  align-items: center;
+  background-color: blue;
+  text-align: center;
+  color: black;
+  font-size: 30pt;
+}
+.tao {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  font-family: commicsans;
+}
